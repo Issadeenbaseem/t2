@@ -174,7 +174,7 @@
                                 <p>
                                  Production of rice and fertilizer (organic and inorganic) fertilizer.
                                 </p>
-                                <a href="project-single.html"><i class="arrow_right"></i></a>
+
                             </div>
                         </div>
                     </div>
@@ -191,7 +191,7 @@
                                 <p>
                                     Radio broadcasting services.
                                 </p>
-                                <a href="project-single.html"><i class="arrow_right"></i></a>
+
                             </div>
                         </div>
                     </div>
@@ -210,7 +210,7 @@
                                 <p>
                                   Production of construction materials including aluminum, steel, gypsum boards, etc.
                                 </p>
-                                <a href="project-single.html"><i class="arrow_right"></i></a>
+
                             </div>
                         </div>
                     </div>
@@ -225,7 +225,7 @@
                                 <p>
                                     Dairy Farm (livestock) and products and animal feed production.
                                 </p>
-                                <a href="project-single.html"><i class="arrow_right"></i></a>
+
                             </div>
                         </div>
                     </div>
@@ -240,7 +240,7 @@
                                 <p>
                                     Production of furniture using wood and other materials.
                                 </p>
-                                <a href="project-single.html"><i class="arrow_right"></i></a>
+
                             </div>
                         </div>
                     </div>
@@ -255,7 +255,7 @@
                                 <p>
                                     Natural herbal products and New Suwashakthi Enterprises ??
                                 </p>
-                                <a href="project-single.html"><i class="arrow_right"></i></a>
+
                             </div>
                         </div>
                     </div>
@@ -270,7 +270,7 @@
                                 <p>
                                     A five-star hotel in Matale.
                                 </p>
-                                <a href="project-single.html"><i class="arrow_right"></i></a>
+
                             </div>
                         </div>
                     </div>
@@ -278,7 +278,7 @@
 
                   <div class="single-item">
                     <div class="row">
-                        <div class="col-lg-7 " style="background-image: url(assets/img/verticals/9.jpg);"></div>
+                        <div class="col-lg-7 thumb " style="background-image: url(assets/img/verticals/9.jpg);"></div>
                         <div class="col-lg-5 info">
                             <div class="content">
 
@@ -286,7 +286,7 @@
                                 <p>
                                     Production of spirits including distillation and bottling.
                                 </p>
-                                <a href="project-single.html"><i class="arrow_right"></i></a>
+
                             </div>
                         </div>
                     </div>
@@ -302,7 +302,7 @@
                                     Infrastructure, commercial and residential construction.
 
                                 </p>
-                                <a href="project-single.html"><i class="arrow_right"></i></a>
+
                             </div>
                         </div>
                     </div>
