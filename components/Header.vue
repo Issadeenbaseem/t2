@@ -1,20 +1,32 @@
 <template>
   <div class="torch-red">
      <!-- Start Preloader
-    ============================================= -->
-    <div id="preloader">
+      <div id="preloader">
         <div id="earna-preloader" class="earna-preloader">
             <div class="animation-preloader">
                 <div class="spinner"></div>
                 <div class="txt-loading">
-                    <span data-text-preloader="E" class="letters-loading">
-                        E
+                    <span data-text-preloader="H" class="letters-loading">
+                        H
                     </span>
-                    <span data-text-preloader="A" class="letters-loading">
-                        A
+                    <span data-text-preloader="I" class="letters-loading">
+                        I
+                    </span>
+                    <span data-text-preloader="N" class="letters-loading">
+                        N
+                    </span>
+
+                    <span data-text-preloader="G" class="letters-loading">
+                        G
+                    </span>
+                    <span data-text-preloader="U" class="letters-loading">
+                        U
                     </span>
                     <span data-text-preloader="R" class="letters-loading">
                         R
+                    </span>
+                    <span data-text-preloader="A" class="letters-loading">
+                        A
                     </span>
                     <span data-text-preloader="N" class="letters-loading">
                         N
@@ -22,6 +34,22 @@
                     <span data-text-preloader="A" class="letters-loading">
                         A
                     </span>
+                    <span data-text-preloader="G" class="letters-loading">
+                        G
+                    </span>
+                    <span data-text-preloader="R" class="letters-loading">
+                        R
+                    </span>
+                    <span data-text-preloader="O" class="letters-loading">
+                        O
+                    </span>
+                    <span data-text-preloader="U" class="letters-loading">
+                        U
+                    </span>
+                    <span data-text-preloader="P" class="letters-loading">
+                        P
+                    </span>
+
                 </div>
             </div>
             <div class="loader">
@@ -42,6 +70,8 @@
             </div>
         </div>
     </div>
+   -->
+
     <!-- End Preloader -->
 
     <!-- Start Header Top
@@ -121,7 +151,7 @@
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                         <i class="fa fa-bars"></i>
                     </button>
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="/">
                         <img src="assets/img/logo-light.png" class="logo logo-display" alt="Logo">
                         <img src="assets/img/logo-red.png" class="logo logo-scrolled" alt="Logo">
                     </a>
