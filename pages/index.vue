@@ -123,9 +123,7 @@
     </div>
     <!-- End Banner -->
 
-    <!-- Star Services Area
-    ============================================= -->
-    <div class="default-services-area default-padding-x">
+ <div class="default-services-area default-padding-x">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
@@ -140,22 +138,33 @@
                 </div>
             </div>
         </div>
-         <div class="projects-area carousel-shadow overflow-hidden default-padding-y">
+
+
+    </div>
+    <!-- Star Services Area
+    ============================================= -->
+ <div class="services-area bg-gray default-padding bottom-less">
+        <!-- Shape -->
+        <div class="right-shape">
+            <img src="assets/img/shape/9-red.png" alt="Shape">
+        </div>
+        <!-- Shape -->
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-
-                        <h2>Verticals</h2>
-                         <div class="devider"></div>
+                        <h4>Our Services</h4>
+                        <h2>What We Bring To You</h2>
+                        <div class="devider"></div>
                     </div>
                 </div>
             </div>
         </div>
+        <div class="projects-area carousel-shadow overflow-hidden default-padding-y">
+
         <div class="container-fill">
             <div class="projects-carousel owl-carousel owl-theme">
-                <!-- Single Item -->
-                <div class="single-item">
+             <div class="single-item">
                     <div class="row">
                         <div class="col-lg-7 thumb" style="background-image: url(assets/img/verticals/1.jpg);"></div>
                         <div class="col-lg-5 info">
@@ -269,7 +278,7 @@
 
                   <div class="single-item">
                     <div class="row">
-                        <div class="col-lg-7 thumb" style="background-image: url(assets/img/verticals/9.jpg);"></div>
+                        <div class="col-lg-7 " style="background-image: url(assets/img/verticals/9.jpg);"></div>
                         <div class="col-lg-5 info">
                             <div class="content">
 
@@ -302,9 +311,7 @@
             </div>
         </div>
     </div>
-
     </div>
-
     <!-- End Services Area -->
 
     <!-- Star About Area
