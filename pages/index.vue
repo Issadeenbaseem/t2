@@ -160,7 +160,7 @@
                 </div>
             </div>
         </div>
-        <div class="projects-area carousel-shadow overflow-hidden default-padding-y">
+        <div class="projects-area carousel-shadow overflow-hidden ">
 
         <div class="container-fill">
             <div class="projects-carousel owl-carousel owl-theme">
