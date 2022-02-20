@@ -44,7 +44,7 @@
                                         </div>
                                         <div class="content">
                                             <strong>Phone:</strong>
-                                            <a href="tel:+94 11 291 1934">+94 11 291 1934</a><br />
+                                            <a href="tel:+94 11 291 1934">+94 11 291 1934 / </a>
                                             <a href="tel:+94 11 291 1935">+94 11 291 1935</a>
 
                                         </div>
