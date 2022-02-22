@@ -1,23 +1,42 @@
 <template>
-  <div>
+  <div >
     <Header id="career"></Header>
       <div class="breadcrumb-area text-center shadow dark text-light bg-cover" style="background-image: url(assets/img/banner/5.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
-                    <h1>Our Career</h1>
+                    <h1>Our Careers</h1>
                     <ul class="breadcrumb">
-                        <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
-                        <li class="active">Career</li>
+                      <li><NuxtLink to="/"><i class="fas fa-home"></i> Home</NuxtLink></li>
+                        <li class="active">Careers</li>
                     </ul>
                 </div>
             </div>
         </div>
     </div>
+      <div class="partner-area overflow-hidden text-light default-padding-n">
+        <div class="container">
+            <div class="item-box ">
+                <div class="row align-center">
+                    <div class="col-lg-6 info">
 
+                        <h2>  Join Us <span>be part of </span> <br>our journey!</h2>
+                        <p>
+The foundation of the Hinguarana Group and its success and drive is our people. We are an equal opportunity employer and we do not to discriminate against any employee or job applicant because of race, color, religion, national origin, sex, physical or mental disability, or age.                        </p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+  <!--
     <div class="faq-content-area default-padding-1">
+
       <div class="container">
+
         <div class="faq-items">
+
           <div class="row align-center">
             <div class="col-lg-10 offset-lg-1">
               <div class="faq-content wow fadeInUp">
@@ -43,18 +62,9 @@
                     >
                       <div class="card-body">
                         <p>
-                          Companions shy had solicitude favourable own. Which
-                          could saw guest man now heard but. Lasted my coming
-                          uneasy marked so should. Gravity letters it amongst
-                          herself dearest an windows by. Wooded ladies she
-                          basket season age her uneasy saw. Discourse unwilling
-                          am no described dejection incommode no listening of.
-                          Before nature his parish boy.
+
                         </p>
-                        <div class="ask-question">
-                          <span>Still no luck?</span>
-                          <a href="#">Ask a question</a>
-                        </div>
+
                       </div>
                     </div>
                   </div>
@@ -78,18 +88,9 @@
                     >
                       <div class="card-body">
                         <p>
-                          Companions shy had solicitude favourable own. Which
-                          could saw guest man now heard but. Lasted my coming
-                          uneasy marked so should. Gravity letters it amongst
-                          herself dearest an windows by. Wooded ladies she
-                          basket season age her uneasy saw. Discourse unwilling
-                          am no described dejection incommode no listening of.
-                          Before nature his parish boy.
+
                         </p>
-                        <div class="ask-question">
-                          <span>Still no luck?</span>
-                          <a href="#">Ask a question</a>
-                        </div>
+
                       </div>
                     </div>
                   </div>
@@ -113,18 +114,9 @@
                     >
                       <div class="card-body">
                         <p>
-                          Companions shy had solicitude favourable own. Which
-                          could saw guest man now heard but. Lasted my coming
-                          uneasy marked so should. Gravity letters it amongst
-                          herself dearest an windows by. Wooded ladies she
-                          basket season age her uneasy saw. Discourse unwilling
-                          am no described dejection incommode no listening of.
-                          Before nature his parish boy.
+
                         </p>
-                        <div class="ask-question">
-                          <span>Still no luck?</span>
-                          <a href="#">Ask a question</a>
-                        </div>
+
                       </div>
                     </div>
                   </div>
@@ -148,18 +140,9 @@
                     >
                       <div class="card-body">
                         <p>
-                          Companions shy had solicitude favourable own. Which
-                          could saw guest man now heard but. Lasted my coming
-                          uneasy marked so should. Gravity letters it amongst
-                          herself dearest an windows by. Wooded ladies she
-                          basket season age her uneasy saw. Discourse unwilling
-                          am no described dejection incommode no listening of.
-                          Before nature his parish boy.
+
                         </p>
-                        <div class="ask-question">
-                          <span>Still no luck?</span>
-                          <a href="#">Ask a question</a>
-                        </div>
+
                       </div>
                     </div>
                   </div>
@@ -170,6 +153,9 @@
         </div>
       </div>
     </div>
+    -->
+
+
     <div class="container default-padding-2">
 
     </div>
@@ -250,9 +236,9 @@
                 </div>
                 <div class="row">
                   <div class="col-lg-6 btn_sent">
-                    <button type="submit" name="submit" id="submit">
-                      Send Message <i class="fa fa-paper-plane"></i>
-                    </button>
+                     <button type="submit" name="submit" id="submit">
+                                        Send Message <i class="fas fa-paper-plane"></i>
+                                    </button>
                   </div>
                 </div>
                 <!-- Alert Message -->
@@ -272,7 +258,13 @@
 </template>
 
 <script>
-export default {};
+export default {
+  head(){
+    return{
+      title:"Hingurana-Careers"
+    }
+  }
+};
 </script>
 
 <style></style>

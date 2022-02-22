@@ -1,5 +1,5 @@
 <template>
-<div>
+<div >
 <Header></Header>
   <!-- Start Breadcrumb
     ============================================= -->
@@ -9,7 +9,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <h1>Contact Us</h1>
                     <ul class="breadcrumb">
-                        <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
+                        <li><NuxtLink to="/"><i class="fas fa-home"></i> Home</NuxtLink></li>
                         <li class="active">Contact</li>
                     </ul>
                 </div>
@@ -89,7 +89,7 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <button type="submit" name="submit" id="submit">
-                                        Send Message <i class="fa fa-paper-plane"></i>
+                                        Send Message <i class="fas fa-paper-plane"></i>
                                     </button>
                                 </div>
                             </div>
@@ -122,6 +122,12 @@
 
 <script>
 export default {
+
+  head(){
+    return{
+      title:"Hingurana-Contact"
+    }
+  }
 
 }
 </script>

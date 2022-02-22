@@ -1,11 +1,11 @@
 <template>
 
 
-  <div class="torch-red">
+  <div >
 
 
     <Header></Header>
-      <modal name="my-modal">
+    <modal name="my-modal">
       <div class="modal-content">
      <div class="team-single-area">
         <div class="container">
@@ -92,9 +92,7 @@
           <div class="col-lg-8 offset-lg-2">
             <h1>About Us</h1>
             <ul class="breadcrumb">
-              <li>
-                <a href="#"><i class="fas fa-home"></i> Home</a>
-              </li>
+              <li><NuxtLink to="/"><i class="fas fa-home"></i> Home</NuxtLink></li>
               <li class="active">About</li>
             </ul>
           </div>
@@ -112,10 +110,7 @@
             <div class="col-lg-6">
               <div class="thumb">
                 <img src="assets/img/about/5.jpg" alt="Thumb" />
-                <h2>
-                  <strong>28</strong> years of <br />
-                  working experience
-                </h2>
+                
               </div>
             </div>
             <div class="col-lg-6 info">
@@ -135,7 +130,7 @@
 
                 <div class="intro">
                   <h5>Mr. Lakshman Wasantha Perera (LLB)</h5>
-                  <span>Chairman & Founder Earna</span>
+                  <span>Chairman & Founder Hingurana</span>
                 </div>
               </div>
             </div>
@@ -148,8 +143,8 @@
         <div class="row">
           <div class="col-lg-8 offset-lg-2">
             <div class="site-heading text-center">
-              <h4>Team Members</h4>
-              <h2>Meet our experts</h2>
+              <h2>Managment Team</h2>
+
               <div class="devider"></div>
             </div>
           </div>
@@ -282,7 +277,13 @@
 </template>
 
 <script>
-
+export default {
+  head(){
+  return {
+    title:"Hingurana-About"
+  }
+  }
+}
 
 </script>
 <style>

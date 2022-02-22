@@ -1,5 +1,6 @@
 <template>
- <div class="torch-red">
+<client-only>
+ <div >
 
 
  <Header></Header>
@@ -35,11 +36,10 @@
                                 <div class="row">
                                     <div class="col-lg-8">
                                         <div class="content">
-                                            <a href="https://www.youtube.com/watch?v=owhuBrGIOsE" class="popup-youtube light video-play-button relative">
+                                            <a href="https://www.youtube.com/watch?v=TaTG7ldyPo4" class="popup-youtube light video-play-button relative">
                                                 <i class="ti-control-play"></i> <span>Watch Video</span>
                                             </a>
                                             <h2 data-animation="animated slideInRight">One of the rapidly expanding corporates in <span>Srilanka</span></h2>
-                                            <a data-animation="animated zoomInUp" class="btn btn-theme effect btn-md" href="about-us.html">Discover More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -57,11 +57,10 @@
                                 <div class="row">
                                     <div class="col-lg-8">
                                         <div class="content">
-                                            <a href="https://www.youtube.com/watch?v=owhuBrGIOsE" class="popup-youtube light video-play-button relative">
+                                            <a href="https://www.youtube.com/watch?v=TaTG7ldyPo4" class="popup-youtube light video-play-button relative">
                                                 <i class="ti-control-play"></i> <span>Watch Video</span>
                                             </a>
                                             <h2 data-animation="animated slideInUp">Established in 2000 with a portfolio of <span>20+ companies</span></h2>
-                                            <a data-animation="animated zoomInUp" class="btn btn-theme effect btn-md" href="about-us.html">Discover More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -79,11 +78,10 @@
                                 <div class="row">
                                     <div class="col-lg-8">
                                         <div class="content">
-                                            <a href="https://www.youtube.com/watch?v=owhuBrGIOsE" class="popup-youtube light video-play-button relative">
+                                            <a href="https://www.youtube.com/watch?v=TaTG7ldyPo4" class="popup-youtube light video-play-button relative">
                                                 <i class="ti-control-play"></i> <span>Watch Video</span>
                                             </a>
                                             <h2 data-animation="animated slideInUp">9+ verticals <span>of the economy</span></h2>
-                                            <a data-animation="animated zoomInUp" class="btn btn-theme effect btn-md" href="about-us.html">Discover More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -101,11 +99,10 @@
                                 <div class="row">
                                     <div class="col-lg-8">
                                         <div class="content">
-                                            <a href="https://www.youtube.com/watch?v=owhuBrGIOsE" class="popup-youtube light video-play-button relative">
+                                            <a href="https://www.youtube.com/watch?v=TaTG7ldyPo4" class="popup-youtube light video-play-button relative">
                                                 <i class="ti-control-play"></i> <span>Watch Video</span>
                                             </a>
                                             <h2 data-animation="animated slideInUp">Most of the companies are within the top 10 in their<span>Respective verticals</span></h2>
-                                            <a data-animation="animated zoomInUp" class="btn btn-theme effect btn-md" href="about-us.html">Discover More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -129,12 +126,14 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
 
-                        <h2>Over view</h2>
+                        <h2>Overview</h2>
                         <div class="devider"></div>
-                        <p class="p_overview">
-                        Established in 2000.Hingurana Group is one of the rapidly expanding corporates in Sri Lanka with a portfolio footprint that spans over 10+ verticals of the Sri Lankan economy and a growing workforce of 800+.Established by the founder Mr. Lakshman Wasantha Perera (LLB) with the vision to manufacture and take Sri Lankan products and services to both the local and global markets and in turn, assist Sri Lanka in its journey to develop as a leading economy at the regional and global stage.
-                        </p>
+                        <p >
+                        Established in 2000, Hingurana Group is one of the rapidly expanding corporates in Sri Lanka with a portfolio footprint that spans over 10+ verticals of the Sri Lankan economy and a growing workforce of 800+.</p>
+
+                         <p>Established by the founder Mr. Lakshman Wasantha Perera (LLB) with the vision to manufacture and take Sri Lankan products and services to both the local and global markets and in turn, assist Sri Lanka in its journey to develop as a leading economy at the regional and global stage.</p>
                     </div>
+
                 </div>
             </div>
         </div>
@@ -143,226 +142,208 @@
     </div>
     <!-- Star Services Area
     ============================================= -->
- <div class="services-area bg-gray default-padding bottom-less">
+<div class="thumbs-services-area bg-dark text-light default-padding-y">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h4>Our Services</h4>
+                        <h2>Vertical of Hingurana Group</h2>
+                        <div class="devider"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <!-- Start Services Items -->
+            <div class="services-content">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="thumb-services-carousel owl-carousel owl-theme">
+                            <!-- Single Item -->
+                            <div class="item">
+                                <img src="assets/img/verticals/1.jpg" alt="Thumb">
+                                <div class="info">
+                                    <h4><a >Agriculture</a></h4>
+                                    <p>
+                                        Production of rice and fertilizer (organic and inorganic) fertilizer.
+                                    </p>
+                                </div>
+                            </div>
+                            <!-- End Single Item -->
+                            <!-- Single Item -->
+                            <div class="item">
+                                <img src="assets/img/verticals/2.jpg" alt="Thumb">
+                                <div class="info">
+                                    <h4><a href="services-single.html">Broadcasting</a></h4>
+                                    <p>
+                                         Lak FM radio broadcasting services with island wide coverage in Sri Lanka.
+                                    </p>
+
+                                </div>
+                            </div>
+                            <!-- End Single Item -->
+                            <!-- Single Item -->
+                            <div class="item">
+                                <img src="assets/img/verticals/3.jpg" alt="Thumb">
+                                <div class="info">
+                                    <h4><a href="services-single.html">Manufacturing</a></h4>
+                                    <p>
+                                         Production of construction materials including aluminum, steel, etc.
+                                    </p>
+
+                                </div>
+                            </div>
+                            <!-- End Single Item -->
+                            <!-- Single Item -->
+                            <div class="item">
+                                <img src="assets/img/verticals/4.jpg" alt="Thumb">
+                                <div class="info">
+                                    <h4><a href="services-single.html">Diary</a></h4>
+                                    <p>
+                                       Dairy Farm (livestock) and products and animal feed production.
+                                    </p>
+
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="assets/img/verticals/5.jpg" alt="Thumb">
+                                <div class="info">
+                                    <h4><a href="services-single.html">Furniture</a></h4>
+                                    <p>
+                                        Production of furniture using wood and other materials.
+                                    </p>
+
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="assets/img/verticals/6.jpg" alt="Thumb">
+                                <div class="info">
+                                    <h4><a href="services-single.html">Health and Lifestyle</a></h4>
+                                    <p>
+                                          A comprehensive range of natural herbal products for a healthy life-style
+                                    </p>
+
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="assets/img/verticals/7.jpg" alt="Thumb">
+                                <div class="info">
+                                    <h4><a href="services-single.html">Hotel & Leisure</a></h4>
+                                    <p>
+                                        A five-star hotel in Matale. Strategically located to explore Siriya, Kandy, etc.
+                                    </p>
+
+                                </div>
+                            </div>
+                            <div class="item">
+                                <img src="assets/img/verticals/9.jpg" alt="Thumb">
+                                <div class="info">
+                                    <h4><a href="services-single.html">Spirits</a></h4>
+                                    <p>
+                                         Production of spirits including distillation and bottling.
+                                    </p>
+
+                                </div>
+                            </div>
+
+                            <!-- End Single Item -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Services Items -->
+        </div>
+    </div>
+    <!-- End Services Area -->
+
+   <div class="services-area bg-gray default-padding-x bottom-less">
         <!-- Shape -->
         <div class="right-shape">
-            <img src="assets/img/shape/9-red.png" alt="Shape">
+            <img src="assets/img/shape/9.png" alt="Shape">
         </div>
         <!-- Shape -->
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h4>Our Services</h4>
-                        <h2>What We Bring To You</h2>
+
+                        <h2>Group Highlights</h2>
                         <div class="devider"></div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="projects-area carousel-shadow overflow-hidden ">
-
-        <div class="container-fill">
-            <div class="projects-carousel owl-carousel owl-theme">
-             <div class="single-item">
-                    <div class="row">
-                        <div class="col-lg-7 thumb" style="background-image: url(assets/img/verticals/1.jpg);"></div>
-                        <div class="col-lg-5 info">
-                            <div class="content">
-
-                                <h3>Agriculture</h3>
-                                <p>
-                                 Production of rice and fertilizer (organic and inorganic) fertilizer.
-                                </p>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-                <!-- Single Item -->
-                <div class="single-item">
-                    <div class="row">
-                        <div class="col-lg-7 thumb" style="background-image: url(assets/img/verticals/2.jpg);"></div>
-                        <div class="col-lg-5 info">
-                            <div class="content">
-
-                                <h3>Broadcasting</h3>
-                                <p>
-                                    Radio broadcasting services.
-                                </p>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Item -->
-                <!-- Single Item -->
-
-                <!-- End Single Item -->
-                  <div class="single-item">
-                    <div class="row">
-                        <div class="col-lg-7 thumb" style="background-image: url(assets/img/verticals/3.jpg);"></div>
-                        <div class="col-lg-5 info">
-                            <div class="content">
-
-                                <h3>Manufacturing</h3>
-                                <p>
-                                  Production of construction materials including aluminum, steel, gypsum boards, etc.
-                                </p>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                  <div class="single-item">
-                    <div class="row">
-                        <div class="col-lg-7 thumb" style="background-image: url(assets/img/verticals/4.jpg);"></div>
-                        <div class="col-lg-5 info">
-                            <div class="content">
-
-                                <h3>Diary</h3>
-                                <p>
-                                    Dairy Farm (livestock) and products and animal feed production.
-                                </p>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                  <div class="single-item">
-                    <div class="row">
-                        <div class="col-lg-7 thumb" style="background-image: url(assets/img/verticals/5.jpg);"></div>
-                        <div class="col-lg-5 info">
-                            <div class="content">
-                                <span></span>
-                                <h3>Furniture</h3>
-                                <p>
-                                    Production of furniture using wood and other materials.
-                                </p>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                  <div class="single-item">
-                    <div class="row">
-                        <div class="col-lg-7 thumb" style="background-image: url(assets/img/verticals/6.jpg);"></div>
-                        <div class="col-lg-5 info">
-                            <div class="content">
-
-                                <h3>Health and Lifestyle</h3>
-                                <p>
-                                    Natural herbal products and New Suwashakthi Enterprises ??
-                                </p>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                  <div class="single-item">
-                    <div class="row">
-                        <div class="col-lg-7 thumb" style="background-image: url(assets/img/verticals/7.jpg);"></div>
-                        <div class="col-lg-5 info">
-                            <div class="content">
-
-                                <h3>Hotel & Leisure</h3>
-                                <p>
-                                    A five-star hotel in Matale.
-                                </p>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                  <div class="single-item">
-                    <div class="row">
-                        <div class="col-lg-7 thumb " style="background-image: url(assets/img/verticals/9.jpg);"></div>
-                        <div class="col-lg-5 info">
-                            <div class="content">
-
-                                <h3>Spirits</h3>
-                                <p>
-                                    Production of spirits including distillation and bottling.
-                                </p>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                  <div class="single-item">
-                    <div class="row">
-                        <div class="col-lg-7 thumb" style="background-image: url(assets/img/verticals/8.jpg);"></div>
-                        <div class="col-lg-5 info">
-                            <div class="content">
-
-                                <h3>Construction</h3>
-                                <p>
-                                    Infrastructure, commercial and residential construction.
-
-                                </p>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-    </div>
-    <!-- End Services Area -->
-
-    <!-- Star About Area
-    ============================================= -->
-    <div class="about-area bg-dark overflow-hidden text-light relative">
-        <!-- Fixed Shape -->
-        <div class="fixed-shape" style="background-image: url(assets/img/shape/8.png);"></div>
-        <!-- End Fixed Shape -->
-        <div class="container">
-            <div class="about-items">
+        <div class="container-full">
+            <div class="services-items">
                 <div class="row">
-                    <div class="col-lg-6 thumb order-lg-last wow fadeInUp" style="background-image: url(assets/img/about/1.jpg);">
+                    <!-- Single Item -->
+                    <div class="col-lg-3 col-md-6 single-item">
+                        <div class="item">
+                            <div class="info">
+                                <i > <img width="70" height="70" src="assets/img/icons/business-verticals.png" alt="Thumb"></i>
+                                <h4>9+ verticals</h4>
 
+                                <div class="bottom">
+                                    <span>01</span>
+
+                                </div>
+                            </div>
+                        </div>
                     </div>
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <div class="col-lg-3 col-md-6 single-item">
+                        <div class="item">
+                            <div class="info">
+                                <i > <img width="70" height="70" src="assets/img/icons/company-portfolio.png" alt="Thumb"></i>
+                                <h4>15+ Companies</h4>
 
-                    <div class="col-lg-6 info wow fadeInDown">
-                        <h4>Who we are</h4>
-                        <h2>Our Highlights</h2>
+                                <div class="bottom">
+                                    <span>02</span>
 
-                        <ul>
-                            <li >
-                                <h5>9+ verticals</h5>
-
-
-                            </li>
-                            <li>
-                                <h5>15+ Companies</h5>
-
-                            </li>
-                            <li>
-                                <h5>Companies are within top tier ranking in most verticals</h5>
-
-                            </li>
-                            <li>
-                                <h5>2800+ Employees</h5>
-
-                            </li>
-                        </ul>
-                        <a class="btn btn-light effect btn-md" href="about-us.html">Discover More</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <div class="col-lg-3 col-md-6 single-item">
+                        <div class="item">
+                            <div class="info">
+                                <i > <img width="70" height="70" src="assets/img/icons/top-10.png" alt="Thumb"></i>
+                                <h4>Companies are within top tier ranking </h4>
 
+                                <div class="bottom">
+                                    <span>03</span>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <div class="col-lg-3 col-md-6 single-item">
+                        <div class="item">
+                            <div class="info">
+                                <i > <img width="70" height="70" src="assets/img/icons/employees-2.png" alt="Thumb"></i>
+                                <h4>800+ employees</h4>
+
+                                <div class="bottom">
+                                    <span>04</span>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
                 </div>
             </div>
         </div>
     </div>
-    <!-- End About Area -->
 
-    <!-- End Blog Area -->
-
-    <!-- Start Footer
-    ============================================= -->
   <Footer></Footer>
     <!-- End Footer -->
 
@@ -372,8 +353,15 @@
 
 
 </div>
+</client-only>
 </template>
 
 <script>
-export default {}
+export default {
+  head(){
+  return {
+    title:"Hingurana-Home"
+  }
+  }
+}
 </script>

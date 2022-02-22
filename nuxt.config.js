@@ -1,12 +1,13 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
-  target: 'static',
+
+  ssr:true,
 
 
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'test',
+    title: 'Hingurana - ',
     htmlAttrs: {
       lang: 'en',
     },
@@ -31,6 +32,8 @@ export default {
       { rel: 'stylesheet', href: 'assets/css/bootsnav.css' },
       { rel: 'stylesheet', href: 'style.css' },
       { rel: 'stylesheet', href: 'assets/css/responsive.css' },
+     
+
     ],
     script:[
       {
@@ -116,6 +119,8 @@ export default {
   build: {
   },
   router: {
-    prefetchLinks: false
+    prefetchLinks: false,
+
+    linkExactActiveClass: 'active'
   }
 }
