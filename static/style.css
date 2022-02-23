@@ -2357,8 +2357,8 @@ body,
 }
 
 .about-area .info {
-    margin-top: 200px;
-    padding-bottom: 120px;
+    margin-top: 70px;
+    padding-bottom: 70px;
 }
 
 .about-area .thumb .success-rate {
@@ -2889,9 +2889,7 @@ body,
 =================================================================== */
 
 .services-area .right-shape {
-    position: absolute;
-    right: 0;
-    top: 120px;
+
 }
 
 .services-area .services-items .item .info > i {
@@ -4705,7 +4703,7 @@ body,
 .expertise-content a {
     display: inline-block;
     text-align: center;
-    border-radius: 30px;
+
     z-index: 1;
     bottom: 65px;
     position: absolute;
@@ -7770,7 +7768,7 @@ footer.text-light.demo.default-padding.centered.bg-dark.text-center img {
   padding-top: 30px;
 }
 .h_career{
-  padding-left: 400px;
+  text-align: center;
   padding-bottom: 30px;
 }
 .modal {
@@ -7846,7 +7844,7 @@ justify-content: space-between;
 }
 .default-padding-2{
 
-  padding-bottom: 60px;
+
 }
 .default-padding-3{
 
@@ -8025,6 +8023,10 @@ justify-content: space-between;
 }
 .default-padding-x{
   padding-top: 60px;
+  padding-bottom: 60px;
+}
+.default-padding-xy{
+ 
   padding-bottom: 60px;
 }
 .default-padding-a{

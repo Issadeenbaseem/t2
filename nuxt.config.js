@@ -6,6 +6,9 @@ export default {
 
 
   // Global page headers: https://go.nuxtjs.dev/config-head
+  vueMeta: {
+    debounceWait: 50
+  },
   head: {
     title: 'Hingurana - ',
     htmlAttrs: {
@@ -32,7 +35,7 @@ export default {
       { rel: 'stylesheet', href: 'assets/css/bootsnav.css' },
       { rel: 'stylesheet', href: 'style.css' },
       { rel: 'stylesheet', href: 'assets/css/responsive.css' },
-     
+
 
     ],
     script:[

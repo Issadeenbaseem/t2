@@ -83,11 +83,11 @@
           <div class="col-lg-8 info">
             <ul>
               <li>
-                <i class="fas fa-map-marker-alt"></i> No.296 Gala Junction,
+                <i class="fa fa-map-marker-alt"></i> No.296 Gala Junction,
                 Kandy Road, Kiribathgoda
               </li>
               <li>
-                <i class="fas fa-envelope-open"></i> info@hinguranagroup.com
+                <i class="fa fa-envelope-open"></i> info@hinguranagroup.com
               </li>
             </ul>
           </div>
@@ -134,7 +134,7 @@
           <div class="attr-nav">
             <div class="call">
               <div class="icon">
-                <i class="fas fa-phone"></i>
+                <i class="fa fa-phone"></i>
               </div>
               <div class="info">
                 <span>Have any question?</span>

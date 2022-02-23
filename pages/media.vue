@@ -20,7 +20,7 @@
                                     </div>
                                     <div class="button">
                                         <a href="assets/img/portfolio/11.jpg" class="item popup-gallery">
-                                            <i class="fas fa-plus"></i>
+                                            <i class="fa fa-plus"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -41,7 +41,7 @@
                                     </div>
                                     <div class="button">
                                         <a href="assets/img/portfolio/1.jpg" class="item popup-gallery">
-                                            <i class="fas fa-plus"></i>
+                                            <i class="fa fa-plus"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -62,7 +62,7 @@
                                     </div>
                                     <div class="button">
                                         <a href="assets/img/portfolio/2.jpg" class="item popup-gallery">
-                                            <i class="fas fa-plus"></i>
+                                            <i class="fa fa-plus"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -83,7 +83,7 @@
                                     </div>
                                     <div class="button">
                                         <a href="assets/img/portfolio/22.jpg" class="item popup-gallery">
-                                            <i class="fas fa-plus"></i>
+                                            <i class="fa fa-plus"></i>
                                         </a>
                                     </div>
                                 </div>

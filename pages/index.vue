@@ -261,9 +261,7 @@
 
    <div class="services-area bg-gray default-padding-x bottom-less">
         <!-- Shape -->
-        <div class="right-shape">
-            <img src="assets/img/shape/9.png" alt="Shape">
-        </div>
+    
         <!-- Shape -->
         <div class="container">
             <div class="row">

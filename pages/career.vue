@@ -7,14 +7,14 @@
                 <div class="col-lg-8 offset-lg-2">
                     <h1>Our Careers</h1>
                     <ul class="breadcrumb">
-                      <li><NuxtLink to="/"><i class="fas fa-home"></i> Home</NuxtLink></li>
+                      <li><NuxtLink to="/"><i class="fa fa-home"></i> Home</NuxtLink></li>
                         <li class="active">Careers</li>
                     </ul>
                 </div>
             </div>
         </div>
     </div>
-      <div class="partner-area overflow-hidden text-light default-padding-n">
+      <div class="partner-area overflow-hidden text-light default-padding-x">
         <div class="container">
             <div class="item-box ">
                 <div class="row align-center">
@@ -155,6 +155,68 @@ The foundation of the Hinguarana Group and its success and drive is our people. 
     </div>
     -->
 
+      <div class="about-content-area default-padding-xy">
+        <div class="container">
+            <div class="content-box">
+                <div class="row">
+                    <div class="col-lg-6 thumb wow fadeInUp">
+                        <div class="thumb-box">
+                            <img src="assets/img/about/2.jpg" alt="Thumb">
+                            <img src="assets/img/about/3.jpg" alt="Thumb">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 info wow fadeInDown">
+                        <h2>Highlights</h2>
+                         <div class="devider"></div>
+                        <ul>
+                            <li>
+                                <div class="icon">
+                                       <i ><img hight="50" width="50" src="assets/img/icons/balance.png"></i>
+                                </div>
+                                <div class="info">
+                                    <h4>Equal Opportunity Employer</h4>
+
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon">
+                                   <i ><img hight="50" width="50" src="assets/img/icons/balance-scale.png"></i>
+                                </div>
+                                <div class="info">
+                                    <h4>Work-Life Balance</h4>
+
+                                </div>
+                            </li>
+                              <li>
+                                <div class="icon">
+                                    <i ><img hight="50" width="50" src="assets/img/icons/medal.png"></i>
+                                </div>
+                                <div class="info">
+                                    <h4>Reward, Recognition, and Remuneration</h4>
+
+                                </div>
+                            </li>
+                              <li>
+                                <div class="icon">
+                                    <i ><img hight="50" width="50" src="assets/img/icons/mortarboard.png"></i>
+                                </div>
+                                <div class="info">
+                                    <h4>Training, Education, and Development</h4>
+
+                                </div>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="col-lg-4 center-info">
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <div class="container default-padding-2">
 
@@ -172,7 +234,7 @@ The foundation of the Hinguarana Group and its success and drive is our people. 
                 class="contact-form"
               >
 
-               <h2 class="h_career">  Apply Now</h2>
+               <h2 class="h_career text-align: center">  Apply Now</h2>
                 <div class="row">
                   <div class="col-lg-12">
                     <div class="form-group">
@@ -237,7 +299,7 @@ The foundation of the Hinguarana Group and its success and drive is our people. 
                 <div class="row">
                   <div class="col-lg-6 btn_sent">
                      <button type="submit" name="submit" id="submit">
-                                        Send Message <i class="fas fa-paper-plane"></i>
+                                        Send Message <i class="fa fa-paper-plane"></i>
                                     </button>
                   </div>
                 </div>

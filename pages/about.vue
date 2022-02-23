@@ -92,7 +92,7 @@
           <div class="col-lg-8 offset-lg-2">
             <h1>About Us</h1>
             <ul class="breadcrumb">
-              <li><NuxtLink to="/"><i class="fas fa-home"></i> Home</NuxtLink></li>
+              <li><NuxtLink to="/"><i class="fa fa-home"></i> Home</NuxtLink></li>
               <li class="active">About</li>
             </ul>
           </div>
@@ -110,7 +110,7 @@
             <div class="col-lg-6">
               <div class="thumb">
                 <img src="assets/img/about/5.jpg" alt="Thumb" />
-                
+
               </div>
             </div>
             <div class="col-lg-6 info">
@@ -190,7 +190,7 @@
                     </a>
                   </div>
                   <div class="share">
-                    <i class="fas fa-share-alt"></i>
+                    <i class="fa fa-share-alt"></i>
                   </div>
                 </div>
                 <div class="info">
@@ -220,7 +220,7 @@
                     </a>
                   </div>
                   <div class="share">
-                    <i class="fas fa-share-alt"></i>
+                    <i class="fa fa-share-alt"></i>
                   </div>
                 </div>
                 <div class="info">
@@ -253,7 +253,7 @@
                     </a>
                   </div>
                   <div class="share">
-                    <i class="fas fa-share-alt"></i>
+                    <i class="fa fa-share-alt"></i>
                   </div>
                 </div>
                 <div class="info">

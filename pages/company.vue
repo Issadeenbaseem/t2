@@ -12,7 +12,7 @@
           <div class="col-lg-8 offset-lg-2">
             <h1>Our Companies</h1>
             <ul class="breadcrumb">
-               <li><NuxtLink to="/"><i class="fas fa-home"></i> Home</NuxtLink></li>
+               <li><NuxtLink to="/"><i class="fa fa-home"></i> Home</NuxtLink></li>
               <li class="active">Companies</li>
             </ul>
           </div>

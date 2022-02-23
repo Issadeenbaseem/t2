@@ -9,7 +9,7 @@
                 <div class="col-lg-8 offset-lg-2">
                     <h1>Contact Us</h1>
                     <ul class="breadcrumb">
-                        <li><NuxtLink to="/"><i class="fas fa-home"></i> Home</NuxtLink></li>
+                        <li><NuxtLink to="/"><i class="fa fa-home"></i> Home</NuxtLink></li>
                         <li class="active">Contact</li>
                     </ul>
                 </div>
@@ -32,7 +32,7 @@
                         <ul>
                             <li>
                                 <div class="icon">
-                                    <i class="fas fa-map-marker-alt"></i>
+                                    <i class="fa fa-map-marker-alt"></i>
                                 </div>
                                 <div class="content">
                                     <h5>Address</h5>
@@ -42,7 +42,7 @@
                             </li>
                             <li>
                                 <div class="icon">
-                                    <i class="fas fa-phone"></i>
+                                    <i class="fa fa-phone"></i>
                                 </div>
                                 <div class="content">
                                     <h5>Contact</h5>
@@ -89,7 +89,7 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <button type="submit" name="submit" id="submit">
-                                        Send Message <i class="fas fa-paper-plane"></i>
+                                        Send Message <i class="fa fa-paper-plane"></i>
                                     </button>
                                 </div>
                             </div>
