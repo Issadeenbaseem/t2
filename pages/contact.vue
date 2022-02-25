@@ -3,14 +3,14 @@
 <Header></Header>
   <!-- Start Breadcrumb
     ============================================= -->
-    <div class="breadcrumb-area text-center shadow dark text-light bg-cover" style="background-image: url(assets/img/banner/2.jpg);">
+    <div class="breadcrumb-area text-center shadow dark text-light bg-cover" style="background-image: url(/assets/img/banner/2.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <h1>Contact Us</h1>
                     <ul class="breadcrumb">
                         <li><NuxtLink to="/"><i class="fa fa-home"></i> Home</NuxtLink></li>
-                        <li class="active">Contact</li>
+                        <li class="active">Contact Us</li>
                     </ul>
                 </div>
             </div>

@@ -1063,7 +1063,7 @@ button, button:focus {
 
 .top-bar-area {
   font-family: 'Poppins', sans-serif;
-  font-weight: 600;
+  
 }
 
 .top-bar-area.transparent {
@@ -8026,7 +8026,7 @@ justify-content: space-between;
   padding-bottom: 60px;
 }
 .default-padding-xy{
- 
+
   padding-bottom: 60px;
 }
 .default-padding-a{

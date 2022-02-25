@@ -29,7 +29,7 @@
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
-                <div class="carousel-item bg-cover active" style="background-image: url(assets/img/new_banner/5.jpg);">
+                <div class="carousel-item bg-cover active" style="background-image: url(/assets/img/new_banner/5.jpg);">
                     <div class="box-table">
                         <div class="box-cell shadow dark">
                             <div class="container">
@@ -46,11 +46,11 @@
                             </div>
                         </div>
                         <!-- Shape -->
-                        <div class="shape-right-bottom"  data-animation="animated slideInUp" style="background-image: url(assets/img/shape/banner-right-shape.png);"></div>
+                        <div class="shape-right-bottom"  data-animation="animated slideInUp" style="background-image: url(/assets/img/shape/banner-right-shape.png);"></div>
                         <!-- Shape -->
                     </div>
                 </div>
-                <div class="carousel-item bg-cover" style="background-image: url(assets/img/new_banner/4.jpg);">
+                <div class="carousel-item bg-cover" style="background-image: url(/assets/img/new_banner/4.jpg);">
                     <div class="box-table">
                         <div class="box-cell shadow dark">
                             <div class="container">
@@ -67,11 +67,11 @@
                             </div>
                         </div>
                         <!-- Shape -->
-                        <div class="shape-right-bottom"  data-animation="animated slideInUp" style="background-image: url(assets/img/shape/banner-right-shape.png);"></div>
+                        <div class="shape-right-bottom"  data-animation="animated slideInUp" style="background-image: url(/assets/img/shape/banner-right-shape.png);"></div>
                         <!-- Shape -->
                     </div>
                 </div>
-                <div class="carousel-item bg-cover" style="background-image: url(assets/img/new_banner/3.jpg);">
+                <div class="carousel-item bg-cover" style="background-image: url(/assets/img/new_banner/3.jpg);">
                     <div class="box-table">
                         <div class="box-cell shadow dark">
                             <div class="container">
@@ -88,11 +88,11 @@
                             </div>
                         </div>
                         <!-- Shape -->
-                        <div class="shape-right-bottom"  data-animation="animated slideInUp" style="background-image: url(assets/img/shape/banner-right-shape.png);"></div>
+                        <div class="shape-right-bottom"  data-animation="animated slideInUp" style="background-image: url(/assets/img/shape/banner-right-shape.png);"></div>
                         <!-- Shape -->
                     </div>
                 </div>
-                <div class="carousel-item bg-cover" style="background-image: url(assets/img/new_banner/8.jpg);">
+                <div class="carousel-item bg-cover" style="background-image: url(/assets/img/new_banner/8.jpg);">
                     <div class="box-table">
                         <div class="box-cell shadow dark">
                             <div class="container">
@@ -109,7 +109,7 @@
                             </div>
                         </div>
                         <!-- Shape -->
-                        <div class="shape-right-bottom"  data-animation="animated slideInUp" style="background-image: url(assets/img/shape/banner-right-shape.png);"></div>
+                        <div class="shape-right-bottom"  data-animation="animated slideInUp" style="background-image: url(/assets/img/shape/banner-right-shape.png);"></div>
                         <!-- Shape -->
                     </div>
                 </div>
@@ -164,7 +164,7 @@
                         <div class="thumb-services-carousel owl-carousel owl-theme">
                             <!-- Single Item -->
                             <div class="item">
-                                <img src="assets/img/verticals/1.jpg" alt="Thumb">
+                                <img src="/assets/img/verticals/1.jpg" alt="Thumb">
                                 <div class="info">
                                     <h4><a >Agriculture</a></h4>
                                     <p>
@@ -175,7 +175,7 @@
                             <!-- End Single Item -->
                             <!-- Single Item -->
                             <div class="item">
-                                <img src="assets/img/verticals/2.jpg" alt="Thumb">
+                                <img src="/assets/img/verticals/2.jpg" alt="Thumb">
                                 <div class="info">
                                     <h4><a href="services-single.html">Broadcasting</a></h4>
                                     <p>
@@ -187,7 +187,7 @@
                             <!-- End Single Item -->
                             <!-- Single Item -->
                             <div class="item">
-                                <img src="assets/img/verticals/3.jpg" alt="Thumb">
+                                <img src="/assets/img/verticals/3.jpg" alt="Thumb">
                                 <div class="info">
                                     <h4><a href="services-single.html">Manufacturing</a></h4>
                                     <p>
@@ -199,7 +199,7 @@
                             <!-- End Single Item -->
                             <!-- Single Item -->
                             <div class="item">
-                                <img src="assets/img/verticals/4.jpg" alt="Thumb">
+                                <img src="/assets/img/verticals/4.jpg" alt="Thumb">
                                 <div class="info">
                                     <h4><a href="services-single.html">Diary</a></h4>
                                     <p>
@@ -209,7 +209,7 @@
                                 </div>
                             </div>
                             <div class="item">
-                                <img src="assets/img/verticals/5.jpg" alt="Thumb">
+                                <img src="/assets/img/verticals/5.jpg" alt="Thumb">
                                 <div class="info">
                                     <h4><a href="services-single.html">Furniture</a></h4>
                                     <p>
@@ -219,7 +219,7 @@
                                 </div>
                             </div>
                             <div class="item">
-                                <img src="assets/img/verticals/6.jpg" alt="Thumb">
+                                <img src="/assets/img/verticals/6.jpg" alt="Thumb">
                                 <div class="info">
                                     <h4><a href="services-single.html">Health and Lifestyle</a></h4>
                                     <p>
@@ -229,7 +229,7 @@
                                 </div>
                             </div>
                             <div class="item">
-                                <img src="assets/img/verticals/7.jpg" alt="Thumb">
+                                <img src="/assets/img/verticals/7.jpg" alt="Thumb">
                                 <div class="info">
                                     <h4><a href="services-single.html">Hotel & Leisure</a></h4>
                                     <p>
@@ -239,7 +239,7 @@
                                 </div>
                             </div>
                             <div class="item">
-                                <img src="assets/img/verticals/9.jpg" alt="Thumb">
+                                <img src="/assets/img/verticals/9.jpg" alt="Thumb">
                                 <div class="info">
                                     <h4><a href="services-single.html">Spirits</a></h4>
                                     <p>
@@ -261,7 +261,7 @@
 
    <div class="services-area bg-gray default-padding-x bottom-less">
         <!-- Shape -->
-    
+
         <!-- Shape -->
         <div class="container">
             <div class="row">
@@ -281,7 +281,7 @@
                     <div class="col-lg-3 col-md-6 single-item">
                         <div class="item">
                             <div class="info">
-                                <i > <img width="70" height="70" src="assets/img/icons/business-verticals.png" alt="Thumb"></i>
+                                <i > <img width="70" height="70" src="/assets/img/icons/business-verticals.png" alt="Thumb"></i>
                                 <h4>9+ verticals</h4>
 
                                 <div class="bottom">
@@ -296,7 +296,7 @@
                     <div class="col-lg-3 col-md-6 single-item">
                         <div class="item">
                             <div class="info">
-                                <i > <img width="70" height="70" src="assets/img/icons/company-portfolio.png" alt="Thumb"></i>
+                                <i > <img width="70" height="70" src="/assets/img/icons/company-portfolio.png" alt="Thumb"></i>
                                 <h4>15+ Companies</h4>
 
                                 <div class="bottom">
@@ -311,8 +311,8 @@
                     <div class="col-lg-3 col-md-6 single-item">
                         <div class="item">
                             <div class="info">
-                                <i > <img width="70" height="70" src="assets/img/icons/top-10.png" alt="Thumb"></i>
-                                <h4>Companies are within top tier ranking </h4>
+                                <i > <img width="70" height="70" src="/assets/img/icons/top-10.png" alt="Thumb"></i>
+                                <h4>Top tier ranking </h4>
 
                                 <div class="bottom">
                                     <span>03</span>
@@ -326,7 +326,7 @@
                     <div class="col-lg-3 col-md-6 single-item">
                         <div class="item">
                             <div class="info">
-                                <i > <img width="70" height="70" src="assets/img/icons/employees-2.png" alt="Thumb"></i>
+                                <i > <img width="70" height="70" src="/assets/img/icons/employees-2.png" alt="Thumb"></i>
                                 <h4>800+ employees</h4>
 
                                 <div class="bottom">

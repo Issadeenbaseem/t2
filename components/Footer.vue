@@ -6,7 +6,7 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 item">
                         <div class="f-item about">
-                            <img src="assets/img/hingurana-logo.png" alt="Logo">
+                            <img src="/assets/img/hingurana-logo.png" alt="Logo">
                             <p>
 Hingurana Group is one of the rapidly expanding corporates in Sri Lanka with a portfolio footprint that spans over 10+ verticals of the Sri Lankan economy and a growing workforce of 800+                            </p>
 

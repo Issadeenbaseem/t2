@@ -1,7 +1,7 @@
 <template>
   <div >
     <Header id="career"></Header>
-      <div class="breadcrumb-area text-center shadow dark text-light bg-cover" style="background-image: url(assets/img/banner/5.jpg);">
+      <div class="breadcrumb-area text-center shadow dark text-light bg-cover" style="background-image: url(/assets/img/banner/5.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
@@ -161,8 +161,8 @@ The foundation of the Hinguarana Group and its success and drive is our people. 
                 <div class="row">
                     <div class="col-lg-6 thumb wow fadeInUp">
                         <div class="thumb-box">
-                            <img src="assets/img/about/2.jpg" alt="Thumb">
-                            <img src="assets/img/about/3.jpg" alt="Thumb">
+                            <img src="/assets/img/about/2.jpg" alt="Thumb">
+                            <img src="/assets/img/about/3.jpg" alt="Thumb">
                         </div>
                     </div>
                     <div class="col-lg-6 info wow fadeInDown">
@@ -171,7 +171,7 @@ The foundation of the Hinguarana Group and its success and drive is our people. 
                         <ul>
                             <li>
                                 <div class="icon">
-                                       <i ><img hight="50" width="50" src="assets/img/icons/balance.png"></i>
+                                       <i ><img hight="50" width="50" src="/assets/img/icons/balance.png"></i>
                                 </div>
                                 <div class="info">
                                     <h4>Equal Opportunity Employer</h4>
@@ -180,7 +180,7 @@ The foundation of the Hinguarana Group and its success and drive is our people. 
                             </li>
                             <li>
                                 <div class="icon">
-                                   <i ><img hight="50" width="50" src="assets/img/icons/balance-scale.png"></i>
+                                   <i ><img hight="50" width="50" src="/assets/img/icons/balance-scale.png"></i>
                                 </div>
                                 <div class="info">
                                     <h4>Work-Life Balance</h4>
@@ -189,7 +189,7 @@ The foundation of the Hinguarana Group and its success and drive is our people. 
                             </li>
                               <li>
                                 <div class="icon">
-                                    <i ><img hight="50" width="50" src="assets/img/icons/medal.png"></i>
+                                    <i ><img hight="50" width="50" src="/assets/img/icons/medal.png"></i>
                                 </div>
                                 <div class="info">
                                     <h4>Reward, Recognition, and Remuneration</h4>
@@ -198,7 +198,7 @@ The foundation of the Hinguarana Group and its success and drive is our people. 
                             </li>
                               <li>
                                 <div class="icon">
-                                    <i ><img hight="50" width="50" src="assets/img/icons/mortarboard.png"></i>
+                                    <i ><img hight="50" width="50" src="/assets/img/icons/mortarboard.png"></i>
                                 </div>
                                 <div class="info">
                                     <h4>Training, Education, and Development</h4>

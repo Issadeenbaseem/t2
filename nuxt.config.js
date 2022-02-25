@@ -23,73 +23,73 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', href:'assets/css/bootstrap.min.css' },
-      { rel: 'stylesheet', href: 'assets/css/font-awesome.min.css'},
-      { rel: 'stylesheet', href: 'assets/css/themify-icons.css' },
-      { rel: 'stylesheet', href: 'assets/css/elegant-icons.css' },
-      { rel: 'stylesheet', href: 'assets/css/flaticon-set.css' },
-      { rel: 'stylesheet', href: 'assets/css/magnific-popup.css' },
-      { rel: 'stylesheet', href: 'assets/css/owl.carousel.min.css' },
-      { rel: 'stylesheet', href: 'assets/css/owl.theme.default.min.css' },
-      { rel: 'stylesheet', href: 'assets/css/animate.css' },
-      { rel: 'stylesheet', href: 'assets/css/bootsnav.css' },
-      { rel: 'stylesheet', href: 'style.css' },
-      { rel: 'stylesheet', href: 'assets/css/responsive.css' },
+      { rel: 'stylesheet', href:'/assets/css/bootstrap.min.css' },
+      { rel: 'stylesheet', href: '/assets/css/font-awesome.min.css'},
+      { rel: 'stylesheet', href: '/assets/css/themify-icons.css' },
+      { rel: 'stylesheet', href: '/assets/css/elegant-icons.css' },
+      { rel: 'stylesheet', href: '/assets/css/flaticon-set.css' },
+      { rel: 'stylesheet', href: '/assets/css/magnific-popup.css' },
+      { rel: 'stylesheet', href: '/assets/css/owl.carousel.min.css' },
+      { rel: 'stylesheet', href: '/assets/css/owl.theme.default.min.css' },
+      { rel: 'stylesheet', href: '/assets/css/animate.css' },
+      { rel: 'stylesheet', href: '/assets/css/bootsnav.css' },
+      { rel: 'stylesheet', href: '/style.css' },
+      { rel: 'stylesheet', href: '/assets/css/responsive.css' },
 
 
     ],
     script:[
       {
-        src:'assets/js/jquery-3.6.0.min.js'
+        src:'/assets/js/jquery-3.6.0.min.js'
       },
       {
-        src:'assets/js/popper.min.js'
+        src:'/assets/js/popper.min.js'
       },
       {
-        src:'assets/js/bootstrap.min.js'
+        src:'/assets/js/bootstrap.min.js'
       },
       {
-        src:'assets/js/jquery.appear.js'
+        src:'/assets/js/jquery.appear.js'
       },
       {
-        src:'assets/js/jquery.easing.min.js'
+        src:'/assets/js/jquery.easing.min.js'
       },
       {
-        src:'assets/js/jquery.magnific-popup.min.js'
+        src:'/assets/js/jquery.magnific-popup.min.js'
       },
       {
-        src:'assets/js/modernizr.custom.13711.js'
+        src:'/assets/js/modernizr.custom.13711.js'
       },
       {
-        src:'assets/js/owl.carousel.min.js'
+        src:'/assets/js/owl.carousel.min.js'
       },
 
       {
-        src:'assets/js/wow.min.js'
+        src:'/assets/js/wow.min.js'
       },
       {
-        src:'assets/js/progress-bar.min.js'
+        src:'/assets/js/progress-bar.min.js'
       },
       {
-        src:'assets/js/isotope.pkgd.min.js'
+        src:'/assets/js/isotope.pkgd.min.js'
       },
       {
-        src:'assets/js/imagesloaded.pkgd.min.js'
+        src:'/assets/js/imagesloaded.pkgd.min.js'
       },
       {
-        src:'assets/js/isotope.pkgd.min.js'
+        src:'/assets/js/isotope.pkgd.min.js'
       },
       {
-        src:'assets/js/count-to.js'
+        src:'/assets/js/count-to.js'
       },
       {
-        src:'assets/js/YTPlayer.min.js'
+        src:'/assets/js/YTPlayer.min.js'
       },
       {
-        src:'assets/js/bootsnav.js'
+        src:'/assets/js/bootsnav.js'
       },
       {
-        src:'assets/js/main.js'
+        src:'/assets/js/main.js'
       },
 
 

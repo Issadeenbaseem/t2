@@ -160,12 +160,12 @@
             </button>
           <nuxt-link class="navbar-brand" to="/">
               <img
-                src="assets/img/hingurana-logo.png"
+                src="/assets/img/hingurana-logo.png"
                 class="logo logo-display"
                 alt="Logo"
               />
               <img
-                src="assets/img/hingurana-logo.png"
+                src="/assets/img/hingurana-logo.png"
                 class="logo logo-scrolled"
                 alt="Logo"
               />

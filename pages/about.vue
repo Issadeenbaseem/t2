@@ -5,87 +5,10 @@
 
 
     <Header></Header>
-    <modal name="my-modal">
-      <div class="modal-content">
-     <div class="team-single-area">
-        <div class="container">
-            <div class="team-content-top_1">
-                <div class="row">
-                    <div class="col-lg-5 left-info">
-                        <div class="thumb">
-                            <img src="assets/img/team/1.jpg" alt="Thumb">
-                        </div>
-                    </div>
-                    <div class="col-lg-7 ">
-                        <h4>Lucas Ethan</h4>
-                        <h6>Marketing Expert</h6>
-                        <p class="p1">description</p>
 
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-
-      </div>
-    </modal>
-    <modal name="my-modal_1">
-      <div class="modal-content">
-     <div class="team-single-area">
-        <div class="container">
-            <div class="team-content-top_1">
-                <div class="row">
-                    <div class="col-lg-5 left-info">
-                        <div class="thumb">
-                            <img src="assets/img/team/2.jpg" alt="Thumb">
-                        </div>
-                    </div>
-                    <div class="col-lg-7 ">
-                        <h4>Lucas Ethan</h4>
-                        <h6>Marketing Expert</h6>
-                        <p class="p1">description</p>
-
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-
-      </div>
-    </modal>
-    <modal name="my-modal_2">
-      <div class="modal-content">
-     <div class="team-single-area">
-        <div class="container">
-            <div class="team-content-top_1">
-                <div class="row">
-                    <div class="col-lg-5 left-info">
-                        <div class="thumb">
-                            <img src="assets/img/team/3.jpg" alt="Thumb">
-                        </div>
-                    </div>
-                    <div class="col-lg-7 ">
-                        <h4>Lucas Ethan</h4>
-                        <h6>Marketing Expert</h6>
-                        <p class="p1">description</p>
-
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-
-      </div>
-    </modal>
     <div
       class="breadcrumb-area text-center shadow dark text-light bg-cover"
-      style="background-image: url(assets/img/banner/10.jpg)"
+      style="background-image: url(/assets/img/banner/10.jpg)"
     >
       <div class="container">
         <div class="row">
@@ -93,7 +16,7 @@
             <h1>About Us</h1>
             <ul class="breadcrumb">
               <li><NuxtLink to="/"><i class="fa fa-home"></i> Home</NuxtLink></li>
-              <li class="active">About</li>
+              <li class="active">About US</li>
             </ul>
           </div>
         </div>
@@ -109,7 +32,7 @@
           <div class="row align-center">
             <div class="col-lg-6">
               <div class="thumb">
-                <img src="assets/img/about/5.jpg" alt="Thumb" />
+                <img src="/assets/img/about/5.jpg" alt="Thumb" />
 
               </div>
             </div>
@@ -176,7 +99,7 @@
             <div class="single-item col-lg-4 col-md-6">
               <div class="item">
                 <div class="thumb">
-                <button @click="$modal.show('my-modal')"><img src="assets/img/team/1.jpg" alt="Thumb" /></button>
+                <button @click="$modal.show('my-modal')"><img src="/assets/img/team/1.jpg" alt="Thumb" /></button>
 
                   <div class="social">
                     <a href="#" class="share-icon facebook">
@@ -206,7 +129,7 @@
             <div class="single-item col-lg-4 col-md-6">
               <div class="item">
                 <div class="thumb">
-                <button @click="$modal.show('my-modal_1')">  <img src="assets/img/team/2.jpg" alt="Thumb" /></button>
+                <button @click="$modal.show('my-modal_1')">  <img src="/assets/img/team/2.jpg" alt="Thumb" /></button>
 
                   <div class="social">
                     <a href="#" class="share-icon facebook">
@@ -238,7 +161,7 @@
             <div class="single-item col-lg-4 col-md-6">
               <div class="item">
                 <div class="thumb">
-                <button @click="$modal.show('my-modal_2')"><img src="assets/img/team/3.jpg" alt="Thumb" /></button>
+                <button @click="$modal.show('my-modal_2')"><img src="/assets/img/team/3.jpg" alt="Thumb" /></button>
 
 
                   <div class="social">
@@ -271,6 +194,84 @@
       </div>
     </div>
     <Footer></Footer>
+       <modal name="my-modal">
+      <div class="modal-content">
+     <div class="team-single-area">
+        <div class="container">
+            <div class="team-content-top_1">
+                <div class="row">
+                    <div class="col-lg-5 left-info">
+                        <div class="thumb">
+                            <img src="/assets/img/team/1.jpg" alt="Thumb">
+                        </div>
+                    </div>
+                    <div class="col-lg-7 ">
+                        <h4>Lucas Ethan</h4>
+                        <h6>Marketing Expert</h6>
+                        <p class="p1">description</p>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+      </div>
+    </modal>
+    <modal name="my-modal_1">
+      <div class="modal-content">
+     <div class="team-single-area">
+        <div class="container">
+            <div class="team-content-top_1">
+                <div class="row">
+                    <div class="col-lg-5 left-info">
+                        <div class="thumb">
+                            <img src="/assets/img/team/2.jpg" alt="Thumb">
+                        </div>
+                    </div>
+                    <div class="col-lg-7 ">
+                        <h4>Lucas Ethan</h4>
+                        <h6>Marketing Expert</h6>
+                        <p class="p1">description</p>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+      </div>
+    </modal>
+    <modal name="my-modal_2">
+      <div class="modal-content">
+     <div class="team-single-area">
+        <div class="container">
+            <div class="team-content-top_1">
+                <div class="row">
+                    <div class="col-lg-5 left-info">
+                        <div class="thumb">
+                            <img src="/assets/img/team/3.jpg" alt="Thumb">
+                        </div>
+                    </div>
+                    <div class="col-lg-7 ">
+                        <h4>Lucas Ethan</h4>
+                        <h6>Marketing Expert</h6>
+                        <p class="p1">description</p>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+      </div>
+    </modal>
   </div>
 
 

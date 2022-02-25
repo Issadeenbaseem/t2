@@ -1,5 +1,5 @@
-/*================================ 
-    #RESPONSIVE CSS 
+/*================================
+    #RESPONSIVE CSS
 ====================================*/
 
 /* Tablet Layout: 768px.*/
@@ -677,6 +677,7 @@
 
   .breadcrumb-area h1 {
     font-size: 36px;
+    padding-top: 80px;
   }
 
   .owl-carousel.owl-theme .owl-nav {
